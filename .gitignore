@@ -1,0 +1,13 @@
+# Ignorar entorno virtual
+mi_ambiente/
+venv/
+__pycache__/
+*.pyc
+
+# Ignorar configuraciones locales
+.vscode/
+.env
+
+# Ignorar archivos temporales
+*.log
+*.sqlite
